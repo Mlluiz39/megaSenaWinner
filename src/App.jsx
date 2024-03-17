@@ -5,8 +5,7 @@ import megaLogo from './assets/logo-mega.png'
 
 const MegaSenaSorteio = () => {
   const numerosMaisSorteados = [
-    10, 53, 5, 37, 23, 34, 33, 30, 35, 41, 32, 4, 38, 42, 44, 17, 28, 56, 27,
-    43,
+    5, 10, 21, 22, 36, 54, 4, 16, 26, 49, 51, 54, 9, 18, 26, 27, 35, 47, 17, 38, 44, 53, 23, 33, 34, 37, 41, 16,26, 49, 51, 54, 30,32, 34, 37, 41, 16, 26, 49, 51, 54
   ]
   const [numerosSorteados, setNumerosSorteados] = useState([])
 
